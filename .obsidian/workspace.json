@@ -1,137 +1,23 @@
 {
   "main": {
-    "id": "0bd7d139a18d1c95",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "661d57f442aa9965",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
-        "dimension": 50.67567567567568,
         "children": [
           {
-            "id": "3252c0ac95a2a895",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
-                "page": 1,
-                "left": -4,
-                "top": 670,
-                "zoom": 0.8112244897959184
-              },
-              "icon": "lucide-file-text",
-              "title": "YouNakai_RemindedbytheInstruments_David Tudor'sMusic"
-            }
-          },
-          {
-            "id": "e1168df3b753d791",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01- txt/objetos sonoros/Tratado de los objetos musicales.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Tratado de los objetos musicales"
-            }
-          },
-          {
-            "id": "867fa94a450b0fc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025 Tesina - cronograma.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025 Tesina - cronograma"
-            }
-          },
-          {
-            "id": "8cd79cf445d2c167",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01- txt/obras/=) Cybersonic Cantilevers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "=) Cybersonic Cantilevers"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "9a6ae9738fab9122",
-        "type": "tabs",
-        "dimension": 49.32432432432432,
-        "children": [
-          {
-            "id": "fc5c2bf0863741d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Reminded by the instruments"
-            }
-          },
-          {
-            "id": "23d4f1a7939ae7f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Construcción de la hipótesis; estado tímbrico.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Construcción de la hipótesis; estado tímbrico"
-            }
-          },
-          {
-            "id": "8a49aeb49a4fffc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Otras obras - revisar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Otras obras - revisar"
-            }
-          },
-          {
-            "id": "555d430f54862ddb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025 Tesina - cronograma.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025 Tesina - cronograma"
-            }
-          }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -318,51 +204,51 @@
   },
   "active": "7f80322636974088",
   "lastOpenFiles": [
-    "2025 Tesina - cronograma.md",
-    "conflict-files-obsidian-git.md",
-    "01- txt/objetos sonoros/Una guía comentada acerca de la tipología y la morfología de Pierre Schaeffer.md",
-    "01- txt/obras/=) Cybersonic Cantilevers.md",
-    "02- img/Pasted image 20250716144556.png",
-    "01- txt/obras/Pandora box.md",
-    "02- img/Pasted image 20250716144754.png",
-    "02- img/Pasted image 20250716144743.png",
-    "02- img/Pasted image 20250716144723.png",
-    "02- img/Pasted image 20250716144708.png",
-    "02- img/Pasted image 20250716144651.png",
-    "02- img/Pasted image 20250716144639.png",
-    "02- img/Pasted image 20250716144626.png",
-    "02- img/Pasted image 20250716144614.png",
-    "Glosario (parte del estado del arte).md",
-    "Otras obras - revisar.md",
-    "juanma tkm.md",
-    "05- bib full/GarcíaAmezagaNekane_PensamientoyCritica_Adorno.pdf",
-    "05- bib full/DunsbyJonathan_Considerations of Texture (1989).pdf",
-    "05- bib full/SchaefferPierre_Tratado_de_los_objetos_musicales.pdf",
-    "02- img/Pasted image 20230412123202.png",
-    "01- txt/obras/Bandoneon ! (A Combine).md",
-    "01- txt/obras/Fontana Mix.md",
-    "01- txt/obras/Hornpipe.md",
-    "01- txt/obras/Jagdstück.md",
-    "01- txt/obras/Neural Synthesis.md",
-    "01- txt/obras/Toneburst, Maps and Fragments.md",
-    "01- txt/obras/Untitled.md",
-    "01- txt/obras/Burroughs.md",
-    "01- txt/obras/Variations VI.md",
-    "01- txt/obras/Variations II.md",
-    "01- txt/obras/Rainforest.md",
-    "01- txt/obras/Mesa.md",
-    "01- txt/obras/Megaton para WM.md",
-    "01- txt/obras/Medium size mograph.md",
-    "01- txt/obras/Light Piece for David Tudor 1.md",
-    "01- txt/obras/Fluorescent Sound.md",
-    "01- txt/obras/Duo for bandoneon and accordion with possible mynah bird obbligato (see-saw version).md",
-    "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
-    "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
-    "05- bib full/DysonGeorge_1923_The Texture of Modern Music.pdf",
-    "05- bib full/[Music and Letters 1989-feb vol. 70 iss. 1] Jonathan Dunsby - Considerations of Texture (1989) [10.2307_735640] - libgen.li.pdf",
-    "05- bib full/FesselPablo_LaTexturaComoEspacioInmanente.pdf",
-    "05- bib full/FesselPablo_LosDiariosdeGandini.pdf",
-    "05- bib full/Assis_2018_Experimental Systems and Artistic Research.pdf",
-    "05- bib full/FesselPablo_Textura.pdf"
+    "09-modelos/Estructuras.md",
+    "09-modelos/Abstracts.md",
+    "09-modelos",
+    "08-utilities/fluCoMa/classification-video-demo.scd",
+    "08-utilities/fluCoMa/classification-video-demo_modif.scd",
+    "08-utilities/guia_sc.pdf",
+    "08-utilities/fluCoMa.md",
+    "08-utilities/fluCoMa",
+    "08-utilities/0-gral.md",
+    "08-utilities/SuperCollider.md",
+    "08-utilities",
+    "07-templates/TeXiS-v1.0-ManualSrc/Imagenes/Bitmap/0A/metrics.png",
+    "07-templates/TeXiS-v1.0-ManualSrc/Imagenes/Bitmap/0A/encuadernacion.jpg",
+    "07-templates/TeXiS-v1.0-ManualSrc/Imagenes/Bitmap/0A/dashboard.png",
+    "07-templates/TeXiS-v1.0-ManualSrc/Imagenes/Bitmap/05/ListaAcronimos.png",
+    "07-templates/TeXiS-v1.0-ManualSrc/Imagenes/Bitmap/02/IndicePDF.png",
+    "07-templates/TeXiS-v1.0-ManualSrc/Imagenes/Bitmap/04/Javy1PilaOperandos.jpg",
+    "07-templates/TeXiS-v1.0-ManualSrc/Imagenes/Bitmap/04/Javy1Javy.jpg",
+    "07-templates/TeXiS-v1.0-ManualSrc/Imagenes/Bitmap/04/Javy1Framauro.jpg",
+    "07-templates/TeXiS-v1.0-ManualSrc/Imagenes/Bitmap/04/Javy1BarrioClases.jpg",
+    "07-templates/TeXiS-v1.0-ManualSrc/Imagenes/Bitmap/03/SeccionesEmacs.png",
+    "07-templates/TeXiS-v1.0-ManualSrc/Imagenes/Vectorial/updateAll.sh",
+    "07-templates/TeXiS-v1.0-ManualSrc/Imagenes/Vectorial/cleanAll.sh",
+    "07-templates/TeXiS-v1.0-ManualSrc/Imagenes/Vectorial/update-eps.sh",
+    "07-templates/TeXiS-v1.0-ManualSrc/Imagenes/Vectorial/escudoUCM.pdf",
+    "07-templates/Zotero Template.md",
+    "07-templates/Timeline Template vertical.md",
+    "07-templates/Timeline Template horizontal.md",
+    "01-txt/timbre/Timbre and Harmony interpolations of timbral structures.md",
+    "01-txt/timbre/Modulación tímbrica.md",
+    "01-txt/timbre/La condición romántica del arte.md",
+    "01-txt/timbre/Estudio de la percepción tímbrica en sonidos con modulación mediante experimentos psicofísicos y modelado de la periferia auditiva.md",
+    "01-txt/timbre/Estrategias de composición a través de la similitud tímbrica mediante la sinergia entre la escucha del compositor y la escucha de máquina.md",
+    "01-txt/timbre/El timbre como factor estructurante.md",
+    "01-txt/timbre/El espacio tímbrico como estructura de control musical.md",
+    "01-txt/timbre/Composing with Multidimensional Timbre Representations.md",
+    "01-txt/tiempo/Tiempo y forma.md",
+    "01-txt/textura/Style in musical art.md",
+    "01-txt/textura/Music and letters - The Texture of Modern Music.md",
+    "01-txt/textura/La textura como espacio inmanente. Teoría, representaciones historiográficas y concepciones estéticas.md",
+    "01-txt/textura/La doble génesis del concepto de textura musical.md",
+    "01-txt/textura/Considerations of Texture.md",
+    "01-txt/textura/Acerca de los conceptos de trama y ritmo. Una aproximación desde Paul Ricoeur y otros autores.md",
+    "01-txt/semiótica/El grado cero retórico y la neorretórica. La lectura tropológica.md",
+    "01-txt/objetos sonoros/Una guía comentada acerca de la tipología y la morfología de Pierre Schaeffer.md",
+    "01-txt/objetos sonoros/Tratado de los objetos musicales.md"
   ]
 }
