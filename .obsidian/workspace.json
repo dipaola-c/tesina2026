@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "06-output/holamundo.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "holamundo"
             }
           }
         ]
@@ -202,8 +206,12 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "7f80322636974088",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Construcción de la hipótesis; estado tímbrico.md",
+    "06-output/holamundo.md",
+    "2025 Tesina - cronograma.md",
+    "Otras obras - revisar.md",
     "09-modelos/Estructuras.md",
     "09-modelos/Abstracts.md",
     "09-modelos",
@@ -245,10 +253,6 @@
     "01-txt/textura/Music and letters - The Texture of Modern Music.md",
     "01-txt/textura/La textura como espacio inmanente. Teoría, representaciones historiográficas y concepciones estéticas.md",
     "01-txt/textura/La doble génesis del concepto de textura musical.md",
-    "01-txt/textura/Considerations of Texture.md",
-    "01-txt/textura/Acerca de los conceptos de trama y ritmo. Una aproximación desde Paul Ricoeur y otros autores.md",
-    "01-txt/semiótica/El grado cero retórico y la neorretórica. La lectura tropológica.md",
-    "01-txt/objetos sonoros/Una guía comentada acerca de la tipología y la morfología de Pierre Schaeffer.md",
-    "01-txt/objetos sonoros/Tratado de los objetos musicales.md"
+    "01-txt/textura/Considerations of Texture.md"
   ]
 }
