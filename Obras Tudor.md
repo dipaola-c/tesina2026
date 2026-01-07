@@ -1,4 +1,12 @@
-**TUDOR chronology of works** https://davidtudor.org/Works/works.html
+## Obras obsidian
+```dataview
+Table author as author, publish as "año", tags as tags
+WHERE contains(type,"obra")
+SORT publish ASC
+```
+
+## TUDOR chronology of works
+https://davidtudor.org/Works/works.html
 
 | TITLE                                                                                                  | YEAR      | COMPOSER (if not Tudor)                                           | COLLABORATOR                                         | DATE OF 1st PERFORMANCE                   | ##### PLACE OF 1st PERFORMANCE                                    |
 | ------------------------------------------------------------------------------------------------------ | --------- | ----------------------------------------------------------------- | ---------------------------------------------------- | ----------------------------------------- | ----------------------------------------------------------------- |

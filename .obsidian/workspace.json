@@ -6,38 +6,8 @@
       {
         "id": "661d57f442aa9965",
         "type": "tabs",
-        "dimension": 48.49823321554771,
+        "dimension": 17.6678445229682,
         "children": [
-          {
-            "id": "3252c0ac95a2a895",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
-                "page": 1,
-                "left": -18,
-                "top": 670,
-                "zoom": 0.8622448979591839
-              },
-              "icon": "lucide-file-text",
-              "title": "YouNakai_RemindedbytheInstruments_David Tudor'sMusic"
-            }
-          },
-          {
-            "id": "e1168df3b753d791",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01- txt/objetos sonoros/Tratado de los objetos musicales.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tratado de los objetos musicales"
-            }
-          },
           {
             "id": "867fa94a450b0fc6",
             "type": "leaf",
@@ -51,30 +21,30 @@
               "icon": "lucide-file",
               "title": "2025 Tesina - cronograma"
             }
-          },
-          {
-            "id": "8cd79cf445d2c167",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00- inicial/(esquema viejo).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(esquema viejo)"
-            }
           }
         ]
       },
       {
         "id": "9a6ae9738fab9122",
         "type": "tabs",
-        "dimension": 51.50176678445229,
+        "dimension": 82.3321554770318,
         "children": [
           {
             "id": "fc5c2bf0863741d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obras Tudor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Obras Tudor"
+            }
+          },
+          {
+            "id": "da3cc7e6e40b0de0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -114,22 +84,9 @@
               "icon": "lucide-file",
               "title": "Otras obras - revisar"
             }
-          },
-          {
-            "id": "555d430f54862ddb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01- txt/objetos sonoros/Una guía comentada acerca de la tipología y la morfología de Pierre Schaeffer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Una guía comentada acerca de la tipología y la morfología de Pierre Schaeffer"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -295,53 +252,52 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fc5c2bf0863741d2",
+  "active": "da3cc7e6e40b0de0",
   "lastOpenFiles": [
-    "07- templates/Timeline Template vertical.md",
-    "Obras Tudor.md",
-    "07- templates/Zotero Template.md",
-    "07- templates/Timeline Template horizontal.md",
-    "Biblio y obras general.md",
-    "Construcción de la hipótesis; estado tímbrico.md",
-    "Biblio paper.md",
-    "Glosario (parte del estado del arte).md",
-    "Otras obras - revisar.md",
-    "Excalidraw/Tudor obra.md",
-    "04- media/ebow_piano_frasco.mp4",
-    "04- media/ensayo.mp4",
-    "04- media/ensayo2.mp4",
-    "04- media/mapa.png",
-    "04- media/neo_ensayo2.wav",
-    "04- media/neo_ensayo3.wav",
-    "04- media/platillo_vib.mp4",
-    "04- media/resonando_concierto.mp3",
-    "04- media/resonando_correcciones.mp3",
-    "04- media/ricochet_vertical0.mp4",
-    "04- media/ricochet_vertical2.mp4",
-    "04- media/baquetas5.jpeg",
-    "04- media/baquetas4.jpg",
-    "04- media/baquetas3.jpg",
-    "04- media/baquetas2.jpg",
-    "04- media/baquetas.jpg",
-    "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
-    "01- txt/objetos sonoros/Una guía comentada acerca de la tipología y la morfología de Pierre Schaeffer.md",
-    "00- inicial/(esquema viejo).md",
-    "00- inicial/2023 Tesina - cronograma.md",
-    "01- txt/artistic research/How to become a Straight-A student.md",
-    "01- txt/artistic research/Method, Methodology and Research Design in Artistic Research- Between Solid Routes and Emergent Pathways.md",
-    "01- txt/artistic research/Artistic Research in Music (extract).md",
-    "01- txt/artistic research/Artistic Research in Music (all text).md",
-    "00- inicial/1- Obras y análisis.md",
-    "00- inicial/2- Gerardo Gandini.md",
-    "00- inicial/Audio correcciones e ideas.md",
-    "00- inicial/Resonando - txt.md",
+    "01-txt/obras/Bandoneon ! (A Combine).md",
+    "obras/prueba.md",
+    "07-templates/prueba timeline.md",
     "2025 Tesina - cronograma.md",
+    "obras/prueba 2.md",
+    "obras",
+    "07-templates/Timeline Template vertical.md",
+    "01-txt/obras/Fluorescent Sound.md",
+    "01-txt/obras/Burroughs.md",
+    "Obras Tudor.md",
+    "01-txt/obras/=) Cybersonic Cantilevers.md",
+    "Otras obras - revisar.md",
+    "Glosario (parte del estado del arte).md",
+    "Construcción de la hipótesis; estado tímbrico.md",
+    "Biblio y obras general.md",
+    "Biblio paper.md",
     "Análisis Resonando.md",
-    "09- modelos/Estructuras.md",
-    "09- modelos/Abstracts.md",
-    "02- img/Pasted image 20250716144556.png",
-    "02- img/Pasted image 20250716144754.png",
-    "02- img/Pasted image 20250716144743.png",
-    "02- img/Pasted image 20250716144723.png"
+    "01-txt/obras/Variations VI.md",
+    "01-txt/obras/Variations II.md",
+    "01-txt/obras/Untitled.md",
+    "01-txt/obras/Rainforest.md",
+    "01-txt/obras/Neural Synthesis.md",
+    "01-txt/obras/Mesa.md",
+    "01-txt/obras/Megaton para WM.md",
+    "01-txt/obras/Medium size mograph.md",
+    "01-txt/obras/Jagdstück.md",
+    "07-templates/prueba1/main.pdf",
+    "09-modelos",
+    "08-utilities/fluCoMa/classification-video-demo_modif.scd",
+    "08-utilities/fluCoMa/classification-video-demo.scd",
+    "08-utilities/guia_sc.pdf",
+    "08-utilities/fluCoMa",
+    "08-utilities",
+    "07-templates/prueba1/img/logo_untref.png",
+    "07-templates/prueba1/img/logo_untref.pdf",
+    "07-templates/prueba1/img/1.jpeg",
+    "07-templates/prueba1/portada2.tex",
+    "07-templates/TeXiS-v1.0-ManualSrc/Imagenes/Bitmap/0A/metrics.png",
+    "07-templates/TeXiS-v1.0-ManualSrc/Imagenes/Bitmap/0A/encuadernacion.jpg",
+    "07-templates/TeXiS-v1.0-ManualSrc/Imagenes/Bitmap/0A/dashboard.png",
+    "07-templates/TeXiS-v1.0-ManualSrc/Imagenes/Bitmap/04/Javy1PilaOperandos.jpg",
+    "07-templates/TeXiS-v1.0-ManualSrc/Imagenes/Bitmap/04/Javy1Javy.jpg",
+    "07-templates/TeXiS-v1.0-ManualSrc/Imagenes/Bitmap/04/Javy1Framauro.jpg",
+    "07-templates/TeXiS-v1.0-ManualSrc/Imagenes/Bitmap/04/Javy1BarrioClases.jpg",
+    "07-templates/TeXiS-v1.0-ManualSrc/Imagenes/Bitmap/05/ListaAcronimos.png"
   ]
 }
