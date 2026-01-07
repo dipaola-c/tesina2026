@@ -6,7 +6,7 @@
       {
         "id": "661d57f442aa9965",
         "type": "tabs",
-        "dimension": 72.37569060773481,
+        "dimension": 48.49823321554771,
         "children": [
           {
             "id": "3252c0ac95a2a895",
@@ -16,9 +16,9 @@
               "state": {
                 "file": "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
                 "page": 1,
-                "left": -4,
+                "left": -18,
                 "top": 670,
-                "zoom": 0.8112244897959184
+                "zoom": 0.8622448979591839
               },
               "icon": "lucide-file-text",
               "title": "YouNakai_RemindedbytheInstruments_David Tudor'sMusic"
@@ -66,13 +66,12 @@
               "title": "(esquema viejo)"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "9a6ae9738fab9122",
         "type": "tabs",
-        "dimension": 27.624309392265197,
+        "dimension": 51.50176678445229,
         "children": [
           {
             "id": "fc5c2bf0863741d2",
@@ -80,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
+                "file": "Obras Tudor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reminded by the instruments"
+              "title": "Obras Tudor"
             }
           },
           {
@@ -130,8 +129,7 @@
               "title": "Una guía comentada acerca de la tipología y la morfología de Pierre Schaeffer"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -297,52 +295,53 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8cd79cf445d2c167",
+  "active": "fc5c2bf0863741d2",
   "lastOpenFiles": [
+    "07- templates/Timeline Template vertical.md",
+    "Obras Tudor.md",
+    "07- templates/Zotero Template.md",
+    "07- templates/Timeline Template horizontal.md",
+    "Biblio y obras general.md",
+    "Construcción de la hipótesis; estado tímbrico.md",
+    "Biblio paper.md",
+    "Glosario (parte del estado del arte).md",
+    "Otras obras - revisar.md",
+    "Excalidraw/Tudor obra.md",
+    "04- media/ebow_piano_frasco.mp4",
+    "04- media/ensayo.mp4",
+    "04- media/ensayo2.mp4",
+    "04- media/mapa.png",
+    "04- media/neo_ensayo2.wav",
+    "04- media/neo_ensayo3.wav",
+    "04- media/platillo_vib.mp4",
+    "04- media/resonando_concierto.mp3",
+    "04- media/resonando_correcciones.mp3",
+    "04- media/ricochet_vertical0.mp4",
+    "04- media/ricochet_vertical2.mp4",
+    "04- media/baquetas5.jpeg",
+    "04- media/baquetas4.jpg",
+    "04- media/baquetas3.jpg",
+    "04- media/baquetas2.jpg",
+    "04- media/baquetas.jpg",
+    "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
+    "01- txt/objetos sonoros/Una guía comentada acerca de la tipología y la morfología de Pierre Schaeffer.md",
+    "00- inicial/(esquema viejo).md",
     "00- inicial/2023 Tesina - cronograma.md",
-    "00- inicial/manual_de_estilo_2022.pdf",
     "01- txt/artistic research/How to become a Straight-A student.md",
     "01- txt/artistic research/Method, Methodology and Research Design in Artistic Research- Between Solid Routes and Emergent Pathways.md",
-    "01- txt/artistic research/course_artistic_research.pdf",
     "01- txt/artistic research/Artistic Research in Music (extract).md",
     "01- txt/artistic research/Artistic Research in Music (all text).md",
-    "Glosario (parte del estado del arte).md",
-    "00- inicial/(esquema viejo).md",
     "00- inicial/1- Obras y análisis.md",
     "00- inicial/2- Gerardo Gandini.md",
     "00- inicial/Audio correcciones e ideas.md",
-    "00- inicial/Glosario.loom",
-    "00- inicial/plantilla-de-tesina-licMus-UNTREF-v1.pdf",
     "00- inicial/Resonando - txt.md",
-    "01- txt/objetos sonoros/Una guía comentada acerca de la tipología y la morfología de Pierre Schaeffer.md",
     "2025 Tesina - cronograma.md",
     "Análisis Resonando.md",
-    "Biblio paper.md",
-    "Biblio y obras general.md",
-    "Construcción de la hipótesis; estado tímbrico.md",
-    "06- output/27_08/main.pdf",
     "09- modelos/Estructuras.md",
     "09- modelos/Abstracts.md",
-    "conflict-files-obsidian-git.md",
-    "01- txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md",
-    "01- txt/instrumentos-herramientas/The buttons on the Pandora's box.md",
-    "01- txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
-    "01- txt/instrumentos-herramientas/Piezas sobre arte.md",
-    "01- txt/instrumentos-herramientas/Reminded by the instruments.md",
     "02- img/Pasted image 20250716144556.png",
     "02- img/Pasted image 20250716144754.png",
     "02- img/Pasted image 20250716144743.png",
-    "02- img/Pasted image 20250716144723.png",
-    "02- img/Pasted image 20250716144708.png",
-    "02- img/Pasted image 20250716144651.png",
-    "02- img/Pasted image 20250716144639.png",
-    "02- img/Pasted image 20250716144626.png",
-    "02- img/Pasted image 20250716144614.png",
-    "05- bib full/GarcíaAmezagaNekane_PensamientoyCritica_Adorno.pdf",
-    "05- bib full/DunsbyJonathan_Considerations of Texture (1989).pdf",
-    "05- bib full/SchaefferPierre_Tratado_de_los_objetos_musicales.pdf",
-    "02- img/Pasted image 20230412123202.png",
-    "05- bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
-    "05- bib full/DysonGeorge_1923_The Texture of Modern Music.pdf"
+    "02- img/Pasted image 20250716144723.png"
   ]
 }
