@@ -3,7 +3,7 @@ type:
 tags:
   - hombre-maquina
 ---
-
+AUTORES VARIOS (especificados más abajo)
 
 ![[Pasted image 20231204033842.png]] (teoría general de los sistemas- Ludwig von Bertalaffy (1968))
 

@@ -6,7 +6,7 @@
       {
         "id": "661d57f442aa9965",
         "type": "tabs",
-        "dimension": 44.16961130742049,
+        "dimension": 58.3922261484099,
         "children": [
           {
             "id": "867fa94a450b0fc6",
@@ -14,20 +14,51 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025 Tesina - cronograma.md",
+                "file": "2026 Tesina - cronograma.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025 Tesina - cronograma"
+              "title": "2026 Tesina - cronograma"
+            }
+          },
+          {
+            "id": "e305455bc7e8e4c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-txt/David Tudor’s Corporeal Imagination.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "David Tudor’s Corporeal Imagination"
+            }
+          },
+          {
+            "id": "3e47fac173a1d760",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "05-bib full/LevitzTamara_TudorCorporeal.pdf",
+                "page": 3,
+                "left": -20,
+                "top": 115,
+                "zoom": 0.758578431372549
+              },
+              "icon": "lucide-file-text",
+              "title": "LevitzTamara_TudorCorporeal"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "9a6ae9738fab9122",
         "type": "tabs",
-        "dimension": 55.830388692579504,
+        "dimension": 41.60777385159011,
         "children": [
           {
             "id": "fc5c2bf0863741d2",
@@ -252,13 +283,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "da3cc7e6e40b0de0",
+  "active": "e305455bc7e8e4c4",
   "lastOpenFiles": [
+    "05-bib full/LevitzTamara_TudorCorporeal.pdf",
+    "01-txt/David Tudor’s Corporeal Imagination.md",
+    "01-txt/instrumentos-herramientas/Reminded by the instruments.md",
+    "01-txt/hombre-máquina.md",
+    "Biblio paper.md",
+    "Biblio y obras general.md",
+    "01-txt/instrumentos-herramientas/Open Sources; Words, Circuits and the Notation-Realization Relation in the Music of David Tudor.md",
+    "00-inicial/2023 Tesina - cronograma.md",
+    "Construcción de la hipótesis; estado tímbrico.md",
+    "2026 Tesina - cronograma.md",
     "Obras Tudor.md",
     "01-txt/obras/Bandoneon ! (A Combine).md",
     "obras/prueba.md",
     "07-templates/prueba timeline.md",
-    "2025 Tesina - cronograma.md",
     "obras/prueba 2.md",
     "obras",
     "07-templates/Timeline Template vertical.md",
@@ -267,19 +307,11 @@
     "01-txt/obras/=) Cybersonic Cantilevers.md",
     "Otras obras - revisar.md",
     "Glosario (parte del estado del arte).md",
-    "Construcción de la hipótesis; estado tímbrico.md",
-    "Biblio y obras general.md",
-    "Biblio paper.md",
     "Análisis Resonando.md",
     "01-txt/obras/Variations VI.md",
     "01-txt/obras/Variations II.md",
     "01-txt/obras/Untitled.md",
     "01-txt/obras/Rainforest.md",
-    "01-txt/obras/Neural Synthesis.md",
-    "01-txt/obras/Mesa.md",
-    "01-txt/obras/Megaton para WM.md",
-    "01-txt/obras/Medium size mograph.md",
-    "01-txt/obras/Jagdstück.md",
     "07-templates/prueba1/main.pdf",
     "09-modelos",
     "08-utilities/fluCoMa/classification-video-demo_modif.scd",
@@ -290,7 +322,6 @@
     "07-templates/prueba1/img/logo_untref.png",
     "07-templates/prueba1/img/logo_untref.pdf",
     "07-templates/prueba1/img/1.jpeg",
-    "07-templates/prueba1/portada2.tex",
     "07-templates/TeXiS-v1.0-ManualSrc/Imagenes/Bitmap/0A/metrics.png",
     "07-templates/TeXiS-v1.0-ManualSrc/Imagenes/Bitmap/0A/encuadernacion.jpg",
     "07-templates/TeXiS-v1.0-ManualSrc/Imagenes/Bitmap/0A/dashboard.png",

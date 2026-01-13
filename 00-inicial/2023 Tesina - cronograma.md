@@ -107,7 +107,7 @@ pipkin  :md1, 28-10, 30-10
 - [ ] Robotic musicianship - Gil Weinberg, Mason Bretan, Guy Hoffman, Scott Driscoll
 - [ ] Curtis Roads - Microsound
 - [ ] Reminded by the instruments - Nakai
-	- [ ] Open Sources: Words, Circuits, and the Notation/Realization Relation in the Music of David Tudor
+	- [x] Open Sources: Words, Circuits, and the Notation/Realization Relation in the Music of David Tudor
 	- [ ] Recital Hall of Cruelty: Antonin Artaud, David Tudor, and the 1950s Avant-Garde
 	- [ ] David Tudor and the Performance of American Experimental Music **(no lo encontré!)**
 	- [ ] David Tudor’s Rainforest: An Evolving Exploration of Resonance
