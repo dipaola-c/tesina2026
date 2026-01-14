@@ -10,8 +10,9 @@ NOMOGRAMA DE TUDOR!!!!!!! PAG 114 DEL LIBRO
 **Algo de lo modular? Ver **
 > [!PDF|red] [[YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf#page=219&selection=74,79,94,1&color=red|YouNakai_RemindedbytheInstruments_David Tudor'sMusic, p.219]]
 > > s a corollary to his observation while realizing Variations II that the instrument did not have to be one but could be many, Tudor’s sound systems were modular in nature, composed of multiple discrete components. Which meant that a part of a given whole could also be used as a part of another whole.
-> 
-> 
+
+
+https://www.youtube.com/watch?v=uKlzwLE8P2M (sobre Rainforest) experimentos de instrumentos expandidos, tal vez se puede relacionar con mi obra..
 
 > [!info ] ojo aquí, You Nakai sugiere que Tudor en (the view.. david tudor papers) 'Cuanto más profundo es este proceso de observación, más parecen requerir y sugerir los componentes sus propias ideas musicales, [...] la música se revela desde “dentro”, en lugar de desde “fuera”'... pensar entonces, cómo se revela la máquina y cómo esta deviene en estado tímbrico.
 

@@ -51,6 +51,8 @@ Rainforest es un ejemplo de modificación acústica del sonido generado electró
 > [!important] Tudor usaba osciladores y ruidos imitando a los pájaros (rugidos) + objetos con asociaciones corporales
 > CUERPO TUDOR ---> AUSENCIA ---> MENTE (mente en circuitos, exteriorización de lo corporal)
 
+https://www.youtube.com/watch?v=z21656ISUbg (obra del 2019 con testimonios reales) minuto 3, sobre Tudor
+
 > [!PDF|red] [[Hartman_DIY_JohnCage_GordonMumma_DavidTudor.pdf#page=46&selection=35,1,66,8&color=red|Hartman_DIY_JohnCage_GordonMumma_DavidTudor, p.46]]
 > > One of the ideas in my Rainforest series is that loudspeakers should be individuals, they should be instruments. So if you need a hundred of them to fill a hall, each one should have its own individual voice. How do you achieve this? You construct them. After all what is a loudspeaker? At present it’s a reproducing instrument, but my feeling all along has been that you should regard it as a generating instrument. All musical instruments work by generating sound waves, and so does a loudspeaker, so if you regard it from that point of view your whole notion of how to construct one would change. Why shouldn’t there be a thousand or more ways of building loudspeakers? Instead of what we consider to be electronic music at present, you would then make your music geared to what the particular loudspeaker can produce, and the whole input becomes simple instead of complex.
 > 

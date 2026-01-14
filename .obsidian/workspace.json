@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-txt/David Tudor’s Corporeal Imagination.md",
+                "file": "Construcción de la hipótesis; estado tímbrico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "David Tudor’s Corporeal Imagination"
+              "title": "Construcción de la hipótesis; estado tímbrico"
             }
           },
           {
@@ -43,17 +43,31 @@
               "type": "pdf",
               "state": {
                 "file": "05-bib full/LevitzTamara_TudorCorporeal.pdf",
-                "page": 3,
-                "left": -20,
-                "top": 115,
-                "zoom": 0.758578431372549
+                "page": 5,
+                "left": 50,
+                "top": 460,
+                "zoom": 0.93
               },
               "icon": "lucide-file-text",
               "title": "LevitzTamara_TudorCorporeal"
             }
+          },
+          {
+            "id": "2581e6c121214fa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-txt/David Tudor’s Corporeal Imagination.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "David Tudor’s Corporeal Imagination"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "9a6ae9738fab9122",
@@ -283,9 +297,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e305455bc7e8e4c4",
+  "active": "2581e6c121214fa3",
   "lastOpenFiles": [
     "05-bib full/LevitzTamara_TudorCorporeal.pdf",
+    "Construcción de la hipótesis; estado tímbrico.md",
+    "01-txt/obras/Rainforest.md",
     "01-txt/David Tudor’s Corporeal Imagination.md",
     "01-txt/instrumentos-herramientas/Reminded by the instruments.md",
     "01-txt/hombre-máquina.md",
@@ -293,7 +309,6 @@
     "Biblio y obras general.md",
     "01-txt/instrumentos-herramientas/Open Sources; Words, Circuits and the Notation-Realization Relation in the Music of David Tudor.md",
     "00-inicial/2023 Tesina - cronograma.md",
-    "Construcción de la hipótesis; estado tímbrico.md",
     "2026 Tesina - cronograma.md",
     "Obras Tudor.md",
     "01-txt/obras/Bandoneon ! (A Combine).md",
@@ -311,7 +326,6 @@
     "01-txt/obras/Variations VI.md",
     "01-txt/obras/Variations II.md",
     "01-txt/obras/Untitled.md",
-    "01-txt/obras/Rainforest.md",
     "07-templates/prueba1/main.pdf",
     "09-modelos",
     "08-utilities/fluCoMa/classification-video-demo_modif.scd",
