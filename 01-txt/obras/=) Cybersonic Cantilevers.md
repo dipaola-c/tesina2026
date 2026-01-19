@@ -39,3 +39,19 @@ https://www.youtube.com/watch?v=nORL2zPwri4
 > > “Creative Aspects of Live-Performance Electronic Music Technology (1967),” in Mumma, Cybersonic Arts, 44
 
 
+subject: ‘configuración total’ (La música, en otras palabras, era un efecto secundario. Como corolario, la retroalimentación también se convirtió en algo más que una forma de interacción entre un sistema y su entorno que desencadenaba la autocorrección del primero; era, en cambio, una forma de interacción entre múltiples materiales, cada uno de los cuales formaba un sistema más pequeño)
+
+Esto incluía no sólo la electrónica, sino también los instrumentos acústicos, los intérpretes humanos, el espacio del concierto y mucho más, como explicó en un artículo escrito en 1967: Me interesan principalmente los “conceptos de sistema”: configuraciones que incluyen fuentes de sonido, circuitos de modificación electrónica, circuitos de control o lógicos, aparatos de reproducción (amplificadores de potencia, altavoces y el auditorio) e incluso condiciones sociales más allá de los confines de la tecnología. Sugiero que el aspecto creativo más importante de la tecnología de la música electrónica en vivo no es esta o aquella innovación de circuitos, sino más bien la configuración total en sí misma.
+
+- Se pueden agrupar algunos estados tímbricos?
+    
+
+- o considerar evoluciones del mismo?
+    
+
+- Se puede escuchar una retroalimentación? (y es parte o no del estado tímbrico?)
+    
+- De cada estado, podría extraer algún elemento previo de un estado anterior? meta-estado que relaciona a todos los estados? o relación (post)
+    
+- Puedo hacer un proceso inverso? del resultado irme a la fuente
+    

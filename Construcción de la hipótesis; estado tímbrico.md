@@ -71,3 +71,47 @@ LA JUSTIFICACIÓN DEL TÍTULO DE LA TESINA, LA CORRELACIÓN ENTRE ESTADOS TÍMBR
 
 
 ![[Pasted image 20241004180205.png]]
+
+
+### OBRAS POSIBLES A ANALIZAR
+
+- =) Cybersonic Cantilevers 1973 [abridged: 12'00 stereo electroacoustic music - Folkways FTS-33904 (stereo LP)]
+    
+- Burroughs 1963 [22'10 live performance electroacoustic music Lovely Music VR-1091 (stereo LP)]
+    
+- Bandoneon ! (A Combine)
+    
+
+- Duo for bandoneon and accordion with possible mynah bird obbligato (see-saw version) [antecedente]
+    
+- Mesa [antecedente] 1966
+    
+
+- Fluorescent Sound
+    
+- Fontana Mix
+    
+- Hornpipe 1967 [abridged:11'20 live performance cybersonic music - Mainstream MS-5010 (stereo LP) restored:15'16]
+    
+- Jagdstück
+    
+- Toneburst, Maps and Fragments
+    
+- Neural Synthesis
+    
+- Untitled
+    
+- Pandora box
+    
+- Rainforest
+    
+- Light Piece for David Tudor 1
+    
+- Medium size mograph 1963 [8'10 Robert Ashley, Gordon Mumma - piano: 4 hands with cybersonic modification]
+    
+- Megaton para WM
+    
+- Variations II
+    
+- Variations VI
+    

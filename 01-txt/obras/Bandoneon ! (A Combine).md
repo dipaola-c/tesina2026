@@ -174,3 +174,20 @@ Antecedente --> [[Duo for bandoneon and accordion with possible mynah bird obbli
 Medio año antes de la realización de Fontana Mix en Toronto, este instrumento en particular jugó un papel principal dentro de otro sistema de sonido: Bandoneon!, el primer intento consciente de Tudor de componer su propia composición, que el manuscrito de 1974 había enumerado como (Realización 6)
 
 
+
+---
+Tudor tocó el bandoneón, modificado con micrófonos de contacto y circuitos de audio programados. Fred Waldhauer, ingeniero de Bell Labs, tocó con su “Sistema de Control Proporcional”, que era una interfaz de sobremesa que se controlaba con un bolígrafo electrónico:
+
+Se utilizó esencialmente para espacializar el sonido: se asignaron 12 zonas a 12 altavoces distribuidos por el área de interpretación... en Bandoneon!, el Sistema de Control Proporcional permitió que la intensidad luminosa de ciertos proyectores, el volumen y el sonido... espacialización a controlar. En esta presentación, la entrada no era el bolígrafo, sino la señal sonora que emanaba del bandoneón y que era captada por cuatro micrófonos.
+
+Para Bandoneon!, Tudor montó esculturas hechas de diferentes materiales resonantes sobre los carros. Transductores se colocaron sobre las esculturas unos soportes de metal, lo que dio como resultado un conjunto único de esculturas que producían audio y que funcionaban de manera similar a los altavoces, menos el cono del altavoz. Los carros que sostenían las esculturas, controlados por mandos a distancia, se guiaban por la armería, lo que brindaba diferentes espacializaciones del sonido (o perspectivas de audio) al público.
+
+- Dividir el sistema en fuentes, procesadores de sonido, modificadores del sonido, amplificadores del mismo (hacer gráfico del sistema)
+    
+- Qué características tiene cada elemento? Qué parámetros puede controlar cada uno? “En otras palabras, este último es un dispositivo de compuerta que no parece producir un sonido propio. Esta naturaleza física da lugar a dos características distintas del órgano, una cosa que puede hacer y otra que no: (a) presionar una tecla puede controlar la duración del sonido indefinidamente (siempre que haya suministro de aire presurizado); (b) presionar una tecla no puede controlar la dinámica del sonido (que, por lo tanto, debe controlarse mediante una interfaz separada llamada pedal de expansión). Con el piano, presionar una tecla tiene la función opuesta: puede controlar la dinámica, pero no la inevitable caída del sonido.”
+    
+
+En particular, Mumma enfatiza la diferencia entre un órgano y otro, lo que recuerda la visión de Tudor de que cada instrumento tiene una naturaleza distinta, y su extensión espacial dentro de la arquitectura de la iglesia que entrenó a Tudor para desarrollar una habilidad excepcional para adaptarse a la latencia, el retraso temporal entre lo que hace y el sonido resultante. Cuando hablé con él el 11 de noviembre de 2011, Mumma explicó la naturaleza específica del órgano de la siguiente manera: “Lo que haces con el órgano, el sonido no desaparece. Presionas la tecla y permanece encendido, ¿verdad? Pero hay muchas otras cosas en juego, tienes los pedales, todos los registros que cambian la marca de sonoridad, tienes todas esas otras cosas, y los desfases temporales. Y es un instrumento sustancial: tiene varios teclados que hacen todas esas cosas. Hay grandes diferencias con el piano, por supuesto, es algo completamente diferente”
+
+- Qué cambios se generan, a partir de la máquina, en el bandoneón?
+    
