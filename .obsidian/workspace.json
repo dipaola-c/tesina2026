@@ -6,7 +6,7 @@
       {
         "id": "661d57f442aa9965",
         "type": "tabs",
-        "dimension": 78.71024734982332,
+        "dimension": 63.60424028268551,
         "children": [
           {
             "id": "867fa94a450b0fc6",
@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Construcción de la hipótesis; estado tímbrico.md",
+                "file": "01-txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Construcción de la hipótesis; estado tímbrico"
+              "title": "Software for artists book - 002 Untethering the web"
             }
           },
           {
@@ -81,12 +81,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "9a6ae9738fab9122",
         "type": "tabs",
-        "dimension": 21.289752650176677,
+        "dimension": 36.39575971731448,
         "children": [
           {
             "id": "fc5c2bf0863741d2",
@@ -311,10 +311,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2581e6c121214fa3",
+  "active": "e305455bc7e8e4c4",
   "lastOpenFiles": [
-    "01-txt/obras/=) Cybersonic Cantilevers.md",
     "Construcción de la hipótesis; estado tímbrico.md",
+    "01-txt/obras/Bandoneon ! (A Combine).md",
+    "01-txt/obras/=) Cybersonic Cantilevers.md",
     "Biblio y obras general.md",
     "Biblio paper.md",
     "Análisis Resonando.md",
@@ -334,7 +335,6 @@
     "01-txt/hombre-máquina.md",
     "01-txt/instrumentos-herramientas/Open Sources; Words, Circuits and the Notation-Realization Relation in the Music of David Tudor.md",
     "00-inicial/2023 Tesina - cronograma.md",
-    "01-txt/obras/Bandoneon ! (A Combine).md",
     "obras/prueba.md",
     "07-templates/prueba timeline.md",
     "obras/prueba 2.md",
