@@ -6,7 +6,7 @@
       {
         "id": "661d57f442aa9965",
         "type": "tabs",
-        "dimension": 63.60424028268551,
+        "dimension": 63.60424028268552,
         "children": [
           {
             "id": "867fa94a450b0fc6",
@@ -44,9 +44,9 @@
               "state": {
                 "file": "05-bib full/LevitzTamara_TudorCorporeal.pdf",
                 "page": 5,
-                "left": 50,
-                "top": 460,
-                "zoom": 0.93
+                "left": -39,
+                "top": 464,
+                "zoom": 0.3799019607843137
               },
               "icon": "lucide-file-text",
               "title": "LevitzTamara_TudorCorporeal"
@@ -81,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "9a6ae9738fab9122",
@@ -311,7 +311,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e305455bc7e8e4c4",
+  "active": "3e47fac173a1d760",
   "lastOpenFiles": [
     "Construcción de la hipótesis; estado tímbrico.md",
     "01-txt/obras/Bandoneon ! (A Combine).md",
