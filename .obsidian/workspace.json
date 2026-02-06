@@ -40,16 +40,14 @@
             "id": "3e47fac173a1d760",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "05-bib full/LevitzTamara_TudorCorporeal.pdf",
-                "page": 5,
-                "left": -39,
-                "top": 464,
-                "zoom": 0.3799019607843137
+                "file": "01-txt/instrumentos-herramientas/This is Not my Beautiful House- Examining the Desktop Metaphor.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LevitzTamara_TudorCorporeal"
+              "icon": "lucide-file",
+              "title": "This is Not my Beautiful House- Examining the Desktop Metaphor"
             }
           },
           {
@@ -313,6 +311,8 @@
   },
   "active": "3e47fac173a1d760",
   "lastOpenFiles": [
+    "05-bib full/LevitzTamara_TudorCorporeal.pdf",
+    "01-txt/instrumentos-herramientas/This is Not my Beautiful House- Examining the Desktop Metaphor.md",
     "Construcción de la hipótesis; estado tímbrico.md",
     "01-txt/obras/Bandoneon ! (A Combine).md",
     "01-txt/obras/=) Cybersonic Cantilevers.md",
@@ -330,7 +330,6 @@
     "01-txt/timbre/Timbre and Harmony interpolations of timbral structures.md",
     "01-txt/David Tudor’s Corporeal Imagination.md",
     "01-txt/obras/Rainforest.md",
-    "05-bib full/LevitzTamara_TudorCorporeal.pdf",
     "01-txt/instrumentos-herramientas/Reminded by the instruments.md",
     "01-txt/hombre-máquina.md",
     "01-txt/instrumentos-herramientas/Open Sources; Words, Circuits and the Notation-Realization Relation in the Music of David Tudor.md",
@@ -339,8 +338,6 @@
     "07-templates/prueba timeline.md",
     "obras/prueba 2.md",
     "obras",
-    "07-templates/Timeline Template vertical.md",
-    "01-txt/obras/Fluorescent Sound.md",
     "07-templates/prueba1/main.pdf",
     "09-modelos",
     "08-utilities/fluCoMa/classification-video-demo_modif.scd",
