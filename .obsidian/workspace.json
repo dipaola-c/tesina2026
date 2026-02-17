@@ -28,12 +28,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-txt/obras/Bandoneon ! (A Combine).md",
+                "file": "01-txt/hombre-máquina.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bandoneon ! (A Combine)"
+              "title": "hombre-máquina"
+            }
+          },
+          {
+            "id": "4af5d9c40e9175e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-txt/definiciones varias de máquina.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "definiciones varias de máquina"
             }
           },
           {
@@ -49,67 +63,9 @@
               "icon": "lucide-file",
               "title": "Rainforest"
             }
-          },
-          {
-            "id": "b8627a6ad3bd50ce",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "05-bib full/Pipkin_BeautifulHouse.pdf",
-                "page": 1,
-                "left": -25,
-                "top": 796,
-                "zoom": 0.6029411764705882
-              },
-              "icon": "lucide-file-text",
-              "title": "Pipkin_BeautifulHouse"
-            }
-          },
-          {
-            "id": "e305455bc7e8e4c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Software for artists book - 002 Untethering the web"
-            }
-          },
-          {
-            "id": "3e47fac173a1d760",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-txt/Die Automate.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Die Automate"
-            }
-          },
-          {
-            "id": "1e55a9981aed2cae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-txt/David Tudor’s Corporeal Imagination.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "David Tudor’s Corporeal Imagination"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       },
       {
         "id": "9a6ae9738fab9122",
@@ -139,8 +95,8 @@
                 "file": "00-inicial/manual_de_estilo_2022.pdf",
                 "page": 2,
                 "left": -38,
-                "top": 34,
-                "zoom": 0.39057539062578744
+                "top": 41,
+                "zoom": 0.3905753906257874
               },
               "icon": "lucide-file-text",
               "title": "manual_de_estilo_2022"
@@ -341,13 +297,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3e47fac173a1d760",
+  "active": "4af5d9c40e9175e8",
   "lastOpenFiles": [
+    "01-txt/hombre-máquina.md",
+    "01-txt/definiciones varias de máquina.md",
+    "01-txt/obras/Bandoneon ! (A Combine).md",
+    "01-txt/obras/Rainforest.md",
     "05-bib full/Pipkin_BeautifulHouse.pdf",
-    "01-txt/Die Automate.md",
-    "01-txt/David Tudor’s Corporeal Imagination.md",
-    "01-txt/instrumentos-herramientas/This is Not my Beautiful House- Examining the Desktop Metaphor.md",
     "01-txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
+    "01-txt/David Tudor’s Corporeal Imagination.md",
+    "01-txt/Die Automate.md",
+    "01-txt/instrumentos-herramientas/This is Not my Beautiful House- Examining the Desktop Metaphor.md",
     "00-inicial/manual_de_estilo_2022.pdf",
     "01-txt/instrumentos-herramientas/Reminded by the instruments.md",
     "00-inicial/2023 Tesina - cronograma.md",
@@ -358,7 +318,6 @@
     "06-output/24-01_Di Paola_Emergiendo estados tímbricos a través de la máquina.pdf",
     "05-bib full/LevitzTamara_TudorCorporeal.pdf",
     "Construcción de la hipótesis; estado tímbrico.md",
-    "01-txt/obras/Bandoneon ! (A Combine).md",
     "01-txt/obras/=) Cybersonic Cantilevers.md",
     "Biblio y obras general.md",
     "Biblio paper.md",
@@ -371,8 +330,6 @@
     "01-txt/objetos sonoros/Spectromorphological Analysis of Sound Objects An adaptation of Pierre Schaeffer’s Typomorphology..md",
     "01-txt/objetos sonoros/Gestural-Sonorous Objects; embodied extensions of Schaeffer’s conceptual apparatus.md",
     "01-txt/timbre/Timbre and Harmony interpolations of timbral structures.md",
-    "01-txt/obras/Rainforest.md",
-    "01-txt/hombre-máquina.md",
     "01-txt/instrumentos-herramientas/Open Sources; Words, Circuits and the Notation-Realization Relation in the Music of David Tudor.md",
     "obras",
     "07-templates/prueba1/main.pdf",
