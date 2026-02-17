@@ -1,8 +1,6 @@
 
-
 Máquina→ En el marco de esta investigación, se entiende por máquina a un sistema material y procesual que produce y transforma sonido mediante relaciones internas (relativamente?) autónomas, introduciendo un sesgo propio que condiciona la emergencia del timbre como estado dinámico, y desplazando el control compositivo desde la intención hacia el funcionamiento del sistema, no reducibles a la intención expresiva directa del intérprete o compositor.
 
-  
 1. La máquina no es solo un “instrumento”
 
 Un instrumento tradicional (violín, piano, flauta):
@@ -13,8 +11,6 @@ Un instrumento tradicional (violín, piano, flauta):
     
 - y su “sesgo” está históricamente codificado.  
       
-    
-
 La máquina, en cambio:
 
 - introduce procesos internos (feedback, inestabilidad, no linealidad),
@@ -22,12 +18,8 @@ La máquina, en cambio:
 - puede reaccionar de manera parcialmente impredecible,
     
 - y desplaza el control desde el gesto hacia el sistema.
-    
-
-👉 En Tudor, el instrumento ya es una máquina, incluso cuando parte de objetos acústicos.
-
+En Tudor, el instrumento ya es una máquina, incluso cuando parte de objetos acústicos.
 ---
-
 2. La máquina como productora de sesgo
 
 Cuando hablás de sesgo, la máquina:
@@ -37,9 +29,7 @@ Cuando hablás de sesgo, la máquina:
 - selecciona qué timbres son posibles,
     
 - define comportamientos antes de cualquier decisión compositiva.  
-      
     
-
 No es neutral.  
 No es transparente.
 
@@ -52,9 +42,7 @@ La respuesta implícita:
 - su sesgo está en su materialidad, circuitería, lógica de funcionamiento, automatización,
     
 - y en cómo esas condiciones generan un estado tímbrico.  
-    
-    ---
-    
+ ---
 
 3. Máquina ≠ tecnología digital (necesariamente)
 
@@ -70,7 +58,17 @@ Puede ser:
     
 - una red de moduladores que se afectan mutuamente.
     
-
 Es decir:
 
 Máquina = dispositivo que organiza procesos sonoros, no simplemente que los ejecuta.
+
+----
+David Tudor:  
+La máquina es un socio performativo. El compositor diseña condiciones, no resultados. El timbre surge del sistema.  
+
+Gordon Mumma:  
+La máquina es un organismo electrónico con comportamiento propio. Los moduladores ya no “obedecen”, interactúan.  
+  
+John Cage:  
+La máquina es un método de descentramiento. Quita al sujeto del centro, incluso cuando no hay electrónica explícita.
+
