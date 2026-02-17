@@ -23,36 +23,6 @@
             }
           },
           {
-            "id": "e305455bc7e8e4c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Software for artists book - 002 Untethering the web"
-            }
-          },
-          {
-            "id": "3e47fac173a1d760",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "05-bib full/Pipkin_BeautifulHouse.pdf",
-                "page": 3,
-                "left": -25,
-                "top": 268,
-                "zoom": 0.6029411764705882
-              },
-              "icon": "lucide-file-text",
-              "title": "Pipkin_BeautifulHouse"
-            }
-          },
-          {
             "id": "2581e6c121214fa3",
             "type": "leaf",
             "state": {
@@ -81,17 +51,47 @@
             }
           },
           {
-            "id": "80e2603d247392d1",
+            "id": "b8627a6ad3bd50ce",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "05-bib full/Pipkin_BeautifulHouse.pdf",
+                "page": 1,
+                "left": -25,
+                "top": 796,
+                "zoom": 0.6029411764705882
+              },
+              "icon": "lucide-file-text",
+              "title": "Pipkin_BeautifulHouse"
+            }
+          },
+          {
+            "id": "e305455bc7e8e4c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-txt/instrumentos-herramientas/This is Not my Beautiful House- Examining the Desktop Metaphor.md",
+                "file": "01-txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "This is Not my Beautiful House- Examining the Desktop Metaphor"
+              "title": "Software for artists book - 002 Untethering the web"
+            }
+          },
+          {
+            "id": "3e47fac173a1d760",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-txt/Die Automate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Die Automate"
             }
           },
           {
@@ -100,16 +100,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-txt/instrumentos-herramientas/This is Not my Beautiful House- Examining the Desktop Metaphor.md",
+                "file": "01-txt/David Tudor’s Corporeal Imagination.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "This is Not my Beautiful House- Examining the Desktop Metaphor"
+              "title": "David Tudor’s Corporeal Imagination"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "9a6ae9738fab9122",
@@ -134,14 +134,16 @@
             "id": "da3cc7e6e40b0de0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "01-txt/instrumentos-herramientas/Reminded by the instruments.md",
-                "mode": "source",
-                "source": false
+                "file": "00-inicial/manual_de_estilo_2022.pdf",
+                "page": 2,
+                "left": -38,
+                "top": 34,
+                "zoom": 0.39057539062578744
               },
-              "icon": "lucide-file",
-              "title": "Reminded by the instruments"
+              "icon": "lucide-file-text",
+              "title": "manual_de_estilo_2022"
             }
           },
           {
@@ -205,7 +207,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "liget",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -339,10 +341,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1e55a9981aed2cae",
+  "active": "3e47fac173a1d760",
   "lastOpenFiles": [
     "05-bib full/Pipkin_BeautifulHouse.pdf",
+    "01-txt/Die Automate.md",
+    "01-txt/David Tudor’s Corporeal Imagination.md",
     "01-txt/instrumentos-herramientas/This is Not my Beautiful House- Examining the Desktop Metaphor.md",
+    "01-txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
+    "00-inicial/manual_de_estilo_2022.pdf",
+    "01-txt/instrumentos-herramientas/Reminded by the instruments.md",
+    "00-inicial/2023 Tesina - cronograma.md",
+    "01-txt/timbre/El espacio tímbrico como estructura de control musical.md",
+    "2026 Tesina - cronograma.md",
     "02-img/Pasted image 20260206152808.png",
     "05-bib full/beautiful_house_pipkin.pdf",
     "06-output/24-01_Di Paola_Emergiendo estados tímbricos a través de la máquina.pdf",
@@ -356,27 +366,19 @@
     "Otras obras - revisar.md",
     "Obras Tudor.md",
     "Glosario (parte del estado del arte).md",
-    "2026 Tesina - cronograma.md",
     "06-output/holamundo.md",
     "01-txt/forma/Forma en la nueva música (Metamorfosis de la forma musical).md",
     "01-txt/objetos sonoros/Spectromorphological Analysis of Sound Objects An adaptation of Pierre Schaeffer’s Typomorphology..md",
     "01-txt/objetos sonoros/Gestural-Sonorous Objects; embodied extensions of Schaeffer’s conceptual apparatus.md",
     "01-txt/timbre/Timbre and Harmony interpolations of timbral structures.md",
-    "01-txt/David Tudor’s Corporeal Imagination.md",
     "01-txt/obras/Rainforest.md",
-    "01-txt/instrumentos-herramientas/Reminded by the instruments.md",
     "01-txt/hombre-máquina.md",
     "01-txt/instrumentos-herramientas/Open Sources; Words, Circuits and the Notation-Realization Relation in the Music of David Tudor.md",
-    "00-inicial/2023 Tesina - cronograma.md",
-    "obras/prueba.md",
-    "07-templates/prueba timeline.md",
-    "obras/prueba 2.md",
     "obras",
     "07-templates/prueba1/main.pdf",
     "09-modelos",
     "08-utilities/fluCoMa/classification-video-demo_modif.scd",
     "08-utilities/fluCoMa/classification-video-demo.scd",
-    "08-utilities/guia_sc.pdf",
     "07-templates/prueba1/img/logo_untref.png",
     "07-templates/prueba1/img/1.jpeg",
     "07-templates/TeXiS-v1.0-ManualSrc/Imagenes/Bitmap/0A/metrics.png",

@@ -23,7 +23,7 @@ Aquí, Franklin, considera las herramientas y la tecnología no sólo como una e
 
 La autora retomando a Franklin considera a las herramientas como significantes de identidad (en cuanto a clase, género, raza, nacionalidad...) y como condicionan dentro y fuera de los grupos/comunidad??
 
-**En paralelo, con la motosierra analiza su agenciamiento para el correcto funcionamiento y cómo separando de la misma la cadena, por ejemplo, no se reconoce como la herramienta completa. Para ella, es evidente como este tipo de herramientas se prestan a la práctica de tecnologías holísticas o artesanales, y además como se convierten en símbolos distintivos (como banderas...)**
+**En paralelo, con la motosierra analiza su agenciamiento para el correcto funcionamiento y cómo separando de la misma la cadena, por ejemplo, no se reconoce como la herramienta completa. Para ella, es evidente como este tipo de herramientas se prestan a la práctica de tecnologías holísticas o artesanales, y además como se convierten en símbolos distintivos (como banderas...)** (NO LO PUSE, DESPUES VER)
 
 #### Whole Earth Catalog (1968-1974)
 https://en.wikipedia.org/wiki/Whole_Earth_Catalog
@@ -35,7 +35,7 @@ En definitiva, cómo las compañías han estado construyendo *control related te
 
 ![[Pasted image 20231018144032.png]]
 
-Teniendo en cuenta esto, vivir la vida dentro de la sociedad humana es reconocer verla a través del lente de la tecnología (no se puede abstraer la sociedad actual de la computadora o la máquina de cocer). (Esta es *the house* y puede ser continuamente extendido y remodelado, siendo creada y a la vez demolida).
+Teniendo en cuenta esto, vivir la vida dentro de la sociedad humana es reconocer verla a través del lente de la tecnología (no se puede abstraer la sociedad actual de la computadora o la máquina de coser). (Esta es *the house* y puede ser continuamente extendido y remodelado, siendo creada y a la vez demolida).
 #### Audre Lorde
 ![[Pasted image 20231018150031.png]]
 
