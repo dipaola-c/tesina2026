@@ -8,6 +8,8 @@ tags:
   - hombre-maquina
 bib: forreading
 ---
+> Nakai, Y. (2012). Hear after: Matters of life and death in David Tudor’s electronic music. _Circuit: Musiques contemporaines, 22_(3), 13–32.
+
 > [!info] leer sobre todo la parte de la obra de tudor como sistema vivo (incluyendo a la máquina) número 4
 
 > [!PDF|yellow] [[Younakai_hearAfter.pdf#page=8&selection=57,21,189,86&color=yellow|Younakai_hearAfter, p.8]]

@@ -6,50 +6,8 @@
       {
         "id": "661d57f442aa9965",
         "type": "tabs",
-        "dimension": 63.60424028268552,
+        "dimension": 70.60185185185185,
         "children": [
-          {
-            "id": "867fa94a450b0fc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026 Tesina - cronograma.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026 Tesina - cronograma"
-            }
-          },
-          {
-            "id": "2581e6c121214fa3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-txt/hombre-máquina.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "hombre-máquina"
-            }
-          },
-          {
-            "id": "4af5d9c40e9175e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-txt/definiciones varias de máquina.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "definiciones varias de máquina"
-            }
-          },
           {
             "id": "2beb7c9b46cc86cc",
             "type": "leaf",
@@ -63,14 +21,84 @@
               "icon": "lucide-file",
               "title": "Rainforest"
             }
+          },
+          {
+            "id": "8fbc702c2c826028",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Análisis Resonando.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Análisis Resonando"
+            }
+          },
+          {
+            "id": "ec718a16e9ccb728",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-txt/timbre/Timbre and Harmony interpolations of timbral structures.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Timbre and Harmony interpolations of timbral structures"
+            }
+          },
+          {
+            "id": "952b7567c127c738",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-txt/instrumentos-herramientas/Reminded by the instruments.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reminded by the instruments"
+            }
+          },
+          {
+            "id": "f38f4f21b4cac3bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-txt/Sesgo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sesgo"
+            }
+          },
+          {
+            "id": "0eee253fd12f5bd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Software for artists book - 002 Untethering the web"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "9a6ae9738fab9122",
         "type": "tabs",
-        "dimension": 36.39575971731448,
+        "dimension": 29.39814814814815,
         "children": [
           {
             "id": "fc5c2bf0863741d2",
@@ -90,30 +118,44 @@
             "id": "da3cc7e6e40b0de0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "00-inicial/manual_de_estilo_2022.pdf",
-                "page": 2,
-                "left": -38,
-                "top": 41,
-                "zoom": 0.3905753906257874
-              },
-              "icon": "lucide-file-text",
-              "title": "manual_de_estilo_2022"
-            }
-          },
-          {
-            "id": "23d4f1a7939ae7f1",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Construcción de la hipótesis; estado tímbrico.md",
+                "file": "01-txt/obras/Rainforest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Construcción de la hipótesis; estado tímbrico"
+              "title": "Rainforest"
+            }
+          },
+          {
+            "id": "a12fbc1d8c566c76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-txt/instrumentos-herramientas/Reminded by the instruments.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reminded by the instruments"
+            }
+          },
+          {
+            "id": "fef23b5c767c755c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "05-bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
+                "page": 63,
+                "left": 44,
+                "top": 419,
+                "zoom": 1.25
+              },
+              "icon": "lucide-file-text",
+              "title": "YouNakai_RemindedbytheInstruments_David Tudor'sMusic"
             }
           },
           {
@@ -129,9 +171,55 @@
               "icon": "lucide-file",
               "title": "Otras obras - revisar"
             }
+          },
+          {
+            "id": "20cdac6d8ab9d0cf",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "05-bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
+                "page": 1,
+                "left": -111,
+                "top": 428,
+                "zoom": 0.7040816326530611
+              },
+              "icon": "lucide-file-text",
+              "title": "YouNakai_RemindedbytheInstruments_David Tudor'sMusic"
+            }
+          },
+          {
+            "id": "c0a179f4cde64948",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00-inicial/manual_de_estilo_2022.pdf",
+                "page": 8,
+                "left": -73,
+                "top": 456,
+                "zoom": 0.81
+              },
+              "icon": "lucide-file-text",
+              "title": "manual_de_estilo_2022"
+            }
+          },
+          {
+            "id": "897d1d44d4023852",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-txt/instrumentos-herramientas/Reminded by the instruments.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reminded by the instruments"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,7 +276,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 471.5
   },
   "right": {
     "id": "3319ad7f620eb724",
@@ -297,45 +385,44 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4af5d9c40e9175e8",
+  "active": "0eee253fd12f5bd3",
   "lastOpenFiles": [
-    "01-txt/hombre-máquina.md",
-    "01-txt/definiciones varias de máquina.md",
-    "01-txt/obras/Bandoneon ! (A Combine).md",
-    "01-txt/obras/Rainforest.md",
-    "05-bib full/Pipkin_BeautifulHouse.pdf",
-    "01-txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
-    "01-txt/David Tudor’s Corporeal Imagination.md",
-    "01-txt/Die Automate.md",
-    "01-txt/instrumentos-herramientas/This is Not my Beautiful House- Examining the Desktop Metaphor.md",
-    "00-inicial/manual_de_estilo_2022.pdf",
+    "01-txt/Sesgo.md",
     "01-txt/instrumentos-herramientas/Reminded by the instruments.md",
-    "00-inicial/2023 Tesina - cronograma.md",
-    "01-txt/timbre/El espacio tímbrico como estructura de control musical.md",
-    "2026 Tesina - cronograma.md",
-    "02-img/Pasted image 20260206152808.png",
-    "05-bib full/beautiful_house_pipkin.pdf",
-    "06-output/24-01_Di Paola_Emergiendo estados tímbricos a través de la máquina.pdf",
-    "05-bib full/LevitzTamara_TudorCorporeal.pdf",
+    "05-bib full/YouNakai_RemindedbytheInstruments_David Tudor'sMusic.pdf",
     "Construcción de la hipótesis; estado tímbrico.md",
-    "01-txt/obras/=) Cybersonic Cantilevers.md",
-    "Biblio y obras general.md",
-    "Biblio paper.md",
-    "Análisis Resonando.md",
-    "Otras obras - revisar.md",
+    "01-txt/instrumentos-herramientas/Software for artists book - 002 Untethering the web.md",
+    "00-inicial/manual_de_estilo_2022.pdf",
+    "01-txt/obras/Rainforest.md",
+    "01-txt/instrumentos-herramientas/DIY en Mumma, Tudor y Cage.md",
+    "01-txt/David Tudor’s Corporeal Imagination.md",
     "Obras Tudor.md",
-    "Glosario (parte del estado del arte).md",
-    "06-output/holamundo.md",
-    "01-txt/forma/Forma en la nueva música (Metamorfosis de la forma musical).md",
-    "01-txt/objetos sonoros/Spectromorphological Analysis of Sound Objects An adaptation of Pierre Schaeffer’s Typomorphology..md",
-    "01-txt/objetos sonoros/Gestural-Sonorous Objects; embodied extensions of Schaeffer’s conceptual apparatus.md",
+    "Otras obras - revisar.md",
+    "01-txt/instrumentos-herramientas/Hear After.md",
+    "resonando_2023_score.pdf",
+    "resonando_disposicion_material-combinado.pdf",
+    "resonando_score.pdf",
+    "resonando_disposicion_material.pdf",
+    "resonando_correcciones.mp3",
+    "00-inicial/Guia-Normas-APA-7ma-edicion.pdf",
     "01-txt/timbre/Timbre and Harmony interpolations of timbral structures.md",
-    "01-txt/instrumentos-herramientas/Open Sources; Words, Circuits and the Notation-Realization Relation in the Music of David Tudor.md",
-    "obras",
-    "07-templates/prueba1/main.pdf",
-    "09-modelos",
-    "08-utilities/fluCoMa/classification-video-demo_modif.scd",
-    "08-utilities/fluCoMa/classification-video-demo.scd",
+    "Análisis Resonando.md",
+    "Biblio paper.md",
+    "Biblio y obras general.md",
+    "Glosario (parte del estado del arte).md",
+    "07-templates/Zotero Template.md",
+    "07-templates/Timeline Template vertical.md",
+    "01-txt/obras/Weatherings.md",
+    "01-txt/obras/Reunión.md",
+    "01-txt/hombre-máquina.md",
+    "01-txt/Die Automate.md",
+    "01-txt/definiciones varias de máquina.md",
+    "01-txt/obras/Pandora box.md",
+    "01-txt/timbre/Modulación tímbrica.md",
+    "01-txt/timbre/La condición romántica del arte.md",
+    "00-inicial/Unconfirmed 962906.crdownload",
+    "05-bib full/Pipkin_BeautifulHouse.pdf",
+    "02-img/Pasted image 20260206152808.png",
     "07-templates/prueba1/img/logo_untref.png",
     "07-templates/prueba1/img/1.jpeg",
     "07-templates/TeXiS-v1.0-ManualSrc/Imagenes/Bitmap/0A/metrics.png",
